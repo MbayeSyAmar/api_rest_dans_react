@@ -20,9 +20,9 @@ La meilleure pratique consiste à créer un fichier dédié pour centraliser les
 
 #### Exemple : api.js
 
-   {% lien %}
+ 
    - [Exemple de service API](https://github.com/MbayeSyAmar/Comment-integrer-des-API-REST-dans-React.git)
-{% endlien %} 
+
 
 
 ---
@@ -35,9 +35,9 @@ Utilise `axios` pour appeler les API depuis React.
 
 1. **Créer un composant `PostList.js` :**
 
-     {% lien %}
+   
   - [Exemple de composant](https://github.com/MbayeSyAmar/Comment-integrer-des-API-REST-dans-React.git)
-{% endlien %} 
+
 
 ---
 
@@ -48,17 +48,17 @@ Utilise `axios` pour appeler les API depuis React.
 
    - Lors de la connexion, récupère le **token JWT** depuis l’API NestJS et stocke-le dans le **localStorage**.
 
-     {% lien %}
+   
   - [Exemple de gestion de l'authentification](https://github.com/MbayeSyAmar/Comment-integrer-des-API-REST-dans-React.git)
-{% endlien %} 
+
 
 1. **Vérifier les Permissions** dans les Composants :
 
    - Vérifie la présence du token pour afficher ou masquer certains éléments.
 
-     {% lien %}
+   
      - [Exemple de vérification de permissions](https://github.com/MbayeSyAmar/Comment-integrer-des-API-REST-dans-React.git)
-{% endlien %} 
+
 
 ---
 
